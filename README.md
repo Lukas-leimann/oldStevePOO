@@ -1,4 +1,4 @@
-[README.md — Old Steve.md](https://github.com/user-attachments/files/32026318/README.md.Old.Steve.md)
+
 #     Old Steve — Sistema de Mineração em Java
 
 Projeto desenvolvido para praticar os fundamentos de **Programação Orientada a Objetos (POO)** em Java.
